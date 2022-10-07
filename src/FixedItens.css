@@ -1,0 +1,9 @@
+.Footer, .start-recipe-btn {
+  bottom: 0;
+  position: fixed;
+}
+
+.checked {
+  text-decoration: line-through;
+}
+
